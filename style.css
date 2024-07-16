@@ -142,7 +142,7 @@ body{
     z-index: 1;
     background-color: #e4e5ee;
     background-repeat: no-repeat;
-    background-image: url("../Images/new.png");
+    background-image: url("../Images/new.PNG");
     background-position: top 100% right 100px;
     padding: 0 80px;
     display: flex;
@@ -160,7 +160,7 @@ body{
 }
 
 #hero button{
-    background-image: url("../Images/newbrush1.png");
+    background-image: url("../Images/newbrush1.PNG");
     background-color: transparent;
     color: #fff;
     border: 0;
@@ -434,7 +434,7 @@ footer .copyright p {
 
 /* Shop Page */
 #page-header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../Images/background3.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../Images/background3.Webp");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -531,7 +531,7 @@ footer .copyright p {
 /* Blog Page */
 
 #page-header.blog-header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../Images/background3.webp");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../Images/background3.Webp");
 }
 
 #blog {
@@ -604,7 +604,7 @@ footer .copyright p {
 
 /* About */
 #page-header.about-header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../Images/background4.webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../Images/background4.Webp");
 }
 
 #about-head {
