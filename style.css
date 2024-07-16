@@ -434,7 +434,7 @@ footer .copyright p {
 
 /* Shop Page */
 #page-header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./Images/background3.Webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./Images/background3.webp");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -531,7 +531,7 @@ footer .copyright p {
 /* Blog Page */
 
 #page-header.blog-header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./Images/background3.Webp");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./Images/background3.webp");
 }
 
 #blog {
@@ -604,7 +604,7 @@ footer .copyright p {
 
 /* About */
 #page-header.about-header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("./Images/background4.Webp");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("./Images/background4.webp");
 }
 
 #about-head {
