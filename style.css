@@ -247,6 +247,9 @@ body{
 #product1 .pro img {
     width: 100%;
     border-radius: 5px;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    mix-blend-mode: transparent;
 }
 
 #product1 .pro .des{
@@ -416,6 +419,7 @@ footer .follow i {
 footer .install .row img {
     border: 1px solid #088178;
     border-radius: 6px;
+    cursor: pointer;
 }
 
 footer .install img {
@@ -894,7 +898,7 @@ footer .copyright p {
         align-items: center;
     }
 
-    #mobile {
+    #mobile, a {
         color: #000;
         font-size: 24px;
         padding: 20px;
